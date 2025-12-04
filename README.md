@@ -14,7 +14,7 @@ Pada mini project ini, saya diminta untuk:
 - Membuat visualisasi data  
 - Menyusun insight berdasarkan hasil analisis  
 
-Seluruh proses dikerjakan dalam lingkungan **Google Colab / Jupyter Notebook** menggunakan bahasa pemrograman **Python**.
+Seluruh proses dikerjakan dalam lingkungan **Google Colab** menggunakan bahasa pemrograman **Python**.
 
 ---
 
@@ -36,6 +36,3 @@ Melalui project ini saya mempelajari hal-hal berikut:
 - Penyusunan kesimpulan berbasis data  
 
 ---
-
-## 📂 Project Structure  
-
