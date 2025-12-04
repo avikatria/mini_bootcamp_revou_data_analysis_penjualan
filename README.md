@@ -1,20 +1,41 @@
-#📊 Mini Project — Data Analyst Bootcamp RevoU
+# 📊 Mini Project — Data Analyst Bootcamp RevoU  
+**Exploring Sales Data using Python**
 
-Exploring Sales Data using Python
+---
 
-##🔍 About This Project
+## 🔍 About This Project  
 
-Proyek ini merupakan bagian dari Mini Bootcamp Data Analyst RevoU, sebuah pelatihan intensif selama 1 minggu yang berfokus pada:
-1. Pengenalan analisis data
-2. Pengolahan dataset
-3. Teknik eksplorasi data (Exploratory Data Analysis / EDA)
-4. Penyusunan insight berbasis data
+Proyek ini merupakan bagian dari **Mini Bootcamp Data Analyst RevoU**, sebuah pelatihan intensif selama 1 minggu yang berfokus pada pengenalan analisis data dan praktik pengolahan data menggunakan Python.
 
-Mini project ini menggunakan dataset penjualan (sales data) untuk melakukan analisis dan menjawab pertanyaan bisnis sederhana.
+Pada mini project ini, saya diminta untuk:
 
-Seluruh proses dilakukan menggunakan:
+- Mengolah dataset penjualan  
+- Melakukan eksplorasi data (*Exploratory Data Analysis / EDA*)  
+- Membuat visualisasi data  
+- Menyusun insight berdasarkan hasil analisis  
+
+Seluruh proses dikerjakan dalam lingkungan **Google Colab / Jupyter Notebook** menggunakan bahasa pemrograman **Python**.
+
+---
+
+## 🧰 Tools & Technologies  
 
 ✔️ Python
-✔️ Google Colab
+✔️ Google Colab / Jupyter Notebook
 
-Tujuannya adalah memberikan pengalaman langsung dalam mengolah data, memvisualisasikannya, serta menarik insight dari hasil analisis.
+---
+
+## 📌 Goals & Learning Outcomes  
+
+Melalui project ini saya mempelajari hal-hal berikut:
+
+- Cara membaca dan memahami dataset  
+- Teknik dasar *data cleaning* dan eksplorasi  
+- Analisis statistik deskriptif  
+- Visualisasi data untuk menggali insight  
+- Penyusunan kesimpulan berbasis data  
+
+---
+
+## 📂 Project Structure  
+
